@@ -1,0 +1,16 @@
+export const LIST_PARTS = [
+  { id: "body", path: "body", total: 17 },
+  { id: "eyes", path: "eyes", total: 24 },
+  { id: "hair", path: "hair", total: 73 },
+  { id: "clothing1", path: "clothes/layer_1", total: 5 },
+  { id: "clothing2", path: "clothes/layer_2", total: 5 },
+  { id: "clothing3", path: "clothes/layer_3", total: 9 },
+  { id: "mouths", path: "mouths", total: 24 },
+  { id: "eyebrow", path: "eyebrows", total: 15 },
+  { id: "glasses", path: "accessories/glasses", total: 17 },
+  { id: "earings", path: "accessories/earrings", total: 32 },
+  { id: "neckwear", path: "accessories/neckwear", total: 18 },
+  { id: "facialHair", path: "facial_hair", total: 17 },
+  { id: "noses", path: "noses", total: 1 },
+  { id: "hats", path: "accessories/hats", total: 28 },
+];
